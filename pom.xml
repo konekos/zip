@@ -10,11 +10,11 @@
     <packaging>jar</packaging>
     
     <dependencies>
-<!--         <dependency>
+        <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-compress</artifactId>
             <version>1.9</version>
-        </dependency> -->
+        </dependency> 
     </dependencies>
     <build>
         <plugins>
